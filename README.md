@@ -22,6 +22,9 @@ Identified top-performing ad types and audience segments
 Analyzed engagement and conversion trends over time
 Compared campaign effectiveness across demographics
 
+Dashboard Link
+https://app.powerbi.com/groups/d11fc650-ff36-4487-8dcb-f255ca4dbaaa/reports/89d89561-062b-4495-a295-f3f3090f8b54/6eeaec3b6fc5bf9492dd?experience=power-bi
+
 
 📷 Dashboard Preview
 <img width="1399" height="792" alt="image" src="https://github.com/user-attachments/assets/f8df69c7-19e7-466b-ad52-6f05a8f5d03a" />
