@@ -24,5 +24,6 @@ Compared campaign effectiveness across demographics
 
 
 📷 Dashboard Preview
-<img width="1405" height="790" alt="image" src="https://github.com/user-attachments/assets/eaaa382a-e123-4875-8a68-527e30e63532" />
+<img width="1399" height="792" alt="image" src="https://github.com/user-attachments/assets/f8df69c7-19e7-466b-ad52-6f05a8f5d03a" />
+
 
